@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+\\ Criei printf
+
+
+
 int main() {
     char estado[] = "Maceio";
     char codigo_da_carta[] = "B01";
